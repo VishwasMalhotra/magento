@@ -1,1 +1,0 @@
-/opt/bitnami/apps/magento/htdocs/lib/web/mage/loader.js
